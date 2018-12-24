@@ -1,5 +1,5 @@
 # ForUges
 
-#For
-#For in
-#For of
+# For
+# For in
+# For of
