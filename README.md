@@ -1,5 +1,3 @@
 # ForUges
 
-# For
-# For in
-# For of
+<p>for、for in、for of</p>
